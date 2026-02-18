@@ -1,0 +1,35 @@
+This project includes third-party open-source software components.  
+The following is a list of these components and their license information.
+
+---
+
+1. datasets (v2.18.0)
+   License: Apache License 2.0
+   Copyright (c) 2020 Hugging Face
+   https://github.com/huggingface/datasets/blob/main/LICENSE
+
+2. deep-translator (v1.11.4)
+   License: MIT License
+   Copyright (c) Nidhal Baccouri
+   https://github.com/nidhaloff/deep-translator/blob/master/LICENSE
+
+3. ijson (v3.4.0)
+   License: BSD-3-Clause AND ISC
+   Copyright (c) ICRAR
+   https://github.com/ICRAR/ijson/blob/master/LICENSE.txt
+
+4. transformers (v4.57.0)
+   License: Apache License 2.0
+   Copyright (c) 2018–2025 Hugging Face
+   https://github.com/huggingface/transformers/blob/main/LICENSE
+
+5. torch (PyTorch) (v2.8.0)
+   License: BSD-style License
+   Copyright (c) 2016–2025 Meta Platforms, Inc.
+   https://github.com/pytorch/pytorch/blob/main/LICENSE
+
+---
+
+Each component listed above is the property of its respective owner.  
+Licenses and copyright notices have been reproduced here in accordance  
+with the terms of their respective licenses.
