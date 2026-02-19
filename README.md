@@ -28,7 +28,7 @@ A robust translating pipeline designed for multi-file support and integration wi
 
 1. Clone Repository 
 ```bash
-git clone ________
+git clone https://github.com/LIAAD/D-UniTS-Translation-Pipeline.git
 ```
 
 2. Create virtual environment
